@@ -5,4 +5,5 @@
     <string name="seekbar_y_label">Y</string>
     <string name="item_cube_label">Cube</string>
     <string name="item_pyramid_label">Pyramid</string>
+    <string name="item_octahedral_label">Octahedral</string>
 </resources>
